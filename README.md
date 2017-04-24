@@ -23,7 +23,7 @@ allprojects {
 In the `build.gradle` for your app.
 
 ```gradle
-compile 'com.newtronlabs.easysync:easysync:1.2.0'
+compile 'com.newtronlabs.easysync:easysync:1.3.0'
 ```
 
 ### EasySynch - Sample
