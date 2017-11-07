@@ -34,7 +34,7 @@ allprojects {
 In the `build.gradle` for your app.
 
 ```gradle
-apply plugin: 'com.newtronlabs.android
+apply plugin: 'com.newtronlabs.android'
 
 dependencies {
     provided 'com.newtronlabs.easysync:easysync:2.0.0'
