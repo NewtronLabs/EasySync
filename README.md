@@ -1,3 +1,7 @@
+Please take a few minutes and let us know how we are doing by filling out this survey: https://goo.gl/forms/97TYeG6Wx5CA4lBV2
+
+---
+
 # Easy Sync
 
 The Easy Sync library allows you to turn asynchronous calls into synchronous ones with ease. 
